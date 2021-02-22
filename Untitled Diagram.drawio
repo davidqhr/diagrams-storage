@@ -1,20 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T03:33:22.934Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="BSFKuD1h7TMD5LL0eoli" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T01:54:04.395Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="q6LaG_n9B5rNo8bFAjIE" version="14.4.2" type="github">
   <diagram id="TikBPhZSroL73MncfeDM" name="Page-1">
-    <mxGraphModel dx="2066" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1338" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tvKTdAOFvS-dG-FHzSqW-1" target="tvKTdAOFvS-dG-FHzSqW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tvKTdAOFvS-dG-FHzSqW-1" value="Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tvKTdAOFvS-dG-FHzSqW-2" target="tvKTdAOFvS-dG-FHzSqW-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tvKTdAOFvS-dG-FHzSqW-2" value="CI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tvKTdAOFvS-dG-FHzSqW-3" target="tvKTdAOFvS-dG-FHzSqW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tvKTdAOFvS-dG-FHzSqW-3" target="tvKTdAOFvS-dG-FHzSqW-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tvKTdAOFvS-dG-FHzSqW-3" value="Kalm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tvKTdAOFvS-dG-FHzSqW-4" value="Bare matel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;arcSize=3;dashed=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="600" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-12" value="Kubernetes with Kalm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-16" value="Kubernetes Control Panel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-28" value="Traffic Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-43" value="Istiod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-44" value="Kalm CRD &amp;amp; Controllers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="140" y="660" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-54" value="Kalm Components" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="140" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="600" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-62" value="Pod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=3;" vertex="1" parent="tvKTdAOFvS-dG-FHzSqW-61">
+          <mxGeometry width="100" height="160.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-63" value="Sidecar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=11;" vertex="1" parent="tvKTdAOFvS-dG-FHzSqW-61">
+          <mxGeometry width="100" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="600" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-65" value="Pod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=3;" vertex="1" parent="tvKTdAOFvS-dG-FHzSqW-64">
+          <mxGeometry width="100" height="160.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-66" value="Sidecar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=11;" vertex="1" parent="tvKTdAOFvS-dG-FHzSqW-64">
+          <mxGeometry width="100" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-67" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="600" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-68" value="Pod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=3;" vertex="1" parent="tvKTdAOFvS-dG-FHzSqW-67">
+          <mxGeometry width="100" height="160.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-69" value="Sidecar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=11;" vertex="1" parent="tvKTdAOFvS-dG-FHzSqW-67">
+          <mxGeometry width="100" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-70" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="810" as="sourcePoint" />
+            <mxPoint x="330" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-71" value="Control Panel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="790" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tvKTdAOFvS-dG-FHzSqW-72" value="Workloads" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="790" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
