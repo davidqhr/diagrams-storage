@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T16:08:14.174Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="5iDu3MVhbLrvw31RJkjd" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T18:00:05.036Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="WnLx4kXAR27K5Y8C4XsN" version="14.4.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2066" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9Nc_-B5o73gLTMY4NzC6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Nc_-B5o73gLTMY4NzC6-1" target="9Nc_-B5o73gLTMY4NzC6-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Nc_-B5o73gLTMY4NzC6-1" value="Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="9Nc_-B5o73gLTMY4NzC6-1" value="Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Nc_-B5o73gLTMY4NzC6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Nc_-B5o73gLTMY4NzC6-2" target="9Nc_-B5o73gLTMY4NzC6-4">
@@ -21,13 +21,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Nc_-B5o73gLTMY4NzC6-2" value="CI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="9Nc_-B5o73gLTMY4NzC6-2" value="CI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Nc_-B5o73gLTMY4NzC6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Nc_-B5o73gLTMY4NzC6-3" target="9Nc_-B5o73gLTMY4NzC6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Nc_-B5o73gLTMY4NzC6-3" value="Image Registry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="9Nc_-B5o73gLTMY4NzC6-3" value="Image Registry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="440" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Nc_-B5o73gLTMY4NzC6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Nc_-B5o73gLTMY4NzC6-4" target="9Nc_-B5o73gLTMY4NzC6-5">
@@ -36,7 +36,7 @@
         <mxCell id="9Nc_-B5o73gLTMY4NzC6-4" value="Kalm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9Nc_-B5o73gLTMY4NzC6-5" value="GKE / EKS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="9Nc_-B5o73gLTMY4NzC6-5" value="GKE / EKS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9Nc_-B5o73gLTMY4NzC6-12" value="Commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
