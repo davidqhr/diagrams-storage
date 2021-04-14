@@ -1,1 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T11:05:45.924Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.6.0" etag="pv4EdEubnxlBNM94x8JK" type="github"><diagram id="zrzd6vhrk7XhVR6TirD6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-14T11:32:53.818Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="vbVCxX1F0-ZBE7dRyS-S" version="14.6.0" type="github">
+  <diagram id="zrzd6vhrk7XhVR6TirD6" name="Page-1">
+    <mxGraphModel dx="2549" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="640" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="761" width="640" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="761" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-3" value="K8s resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="236" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-5" value="Gitops Repo HEAD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-9" value="K8s resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="236" y="208" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-11" value="Gitops Repo HEAD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="255" y="228" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-15" value="K8s resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="236" y="550" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-17" value="Gitops Repo HEAD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="430" y="549" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-23" value="Not Committed Changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="595" y="550" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-25" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fia2qhf1rkntq1Nrr4Tp-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="640" as="sourcePoint" />
+            <mxPoint x="680" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-26" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="570" as="sourcePoint" />
+            <mxPoint x="520" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-27" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320.9" y="570" as="sourcePoint" />
+            <mxPoint x="320.9" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-28" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="410" as="sourcePoint" />
+            <mxPoint x="320" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="410" as="sourcePoint" />
+            <mxPoint x="520" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-30" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="250" as="sourcePoint" />
+            <mxPoint x="320" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-31" value="Synced" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-32" value="OutOfSync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-33" value="OutOfSync" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="580" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-38" value="Modified" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-41" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="40" y="761" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-42" value="K8s resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="430" y="690" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-43" value="Gitops Repo HEAD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="430" y="710" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-44" value="Not Committed Changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="595" y="711" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-45" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="Fia2qhf1rkntq1Nrr4Tp-44" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="801" as="sourcePoint" />
+            <mxPoint x="680" y="751" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-46" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="731" as="sourcePoint" />
+            <mxPoint x="520" y="751" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-48" value="Synced" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=30;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="741" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-49" value="Modified" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="771" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_1_blue-128.png;fontSize=24;fillColor=#009900;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="275" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_2_blue-128.png;fontSize=24;fillColor=#009900;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="435" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_3_blue-128.png;fontSize=24;fillColor=#009900;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="595" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fia2qhf1rkntq1Nrr4Tp-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/letters-and-numbers-1/32/number_4_blue-128.png;fontSize=24;fillColor=#009900;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="756" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
